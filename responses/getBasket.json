@@ -1,18 +1,24 @@
 {
   "amount": 46600,
-  "countGoods": 2,
+  "countGoods": 3,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "id": 1,
+      "title": "Monitor", 
+      "price": 400,
       "quantity": 1
     },
-    {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+    { 
+      "id": 2, 
+      "title": "Headphones", 
+      "price": 250,
       "quantity": 1
+    },
+    { 
+      "id": 3, 
+      "title": "Speakers", 
+      "price": 50,
+      "quantity": 4
     }
   ]
 }
