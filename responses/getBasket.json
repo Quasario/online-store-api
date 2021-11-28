@@ -6,18 +6,21 @@
       "id": 1,
       "title": "Monitor", 
       "price": 400,
+      "img": "img/Monitor.webp",
       "quantity": 1
     },
     { 
       "id": 2, 
       "title": "Headphones", 
       "price": 250,
+      "img": "img/Headphones.webp",
       "quantity": 1
     },
     { 
       "id": 3, 
       "title": "Speakers", 
       "price": 50,
+      "img": "img/Speakers.webp",
       "quantity": 4
     }
   ]
